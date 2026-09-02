@@ -1,0 +1,38 @@
+{
+  "date": "Dimanche 6 septembre 2026",
+  "titre_dimanche": "23e dimanche du temps ordinaire",
+  "chants": [
+    {
+      "titre": "Chant d'entrée",
+      "reference": null,
+      "texte": "Colle ici les paroles complètes du chant d'entrée."
+    },
+    {
+      "titre": "Chant de communion",
+      "reference": null,
+      "texte": "Colle ici les paroles complètes du chant de communion."
+    }
+  ],
+  "lectures": [
+    {
+      "titre": "1ère lecture",
+      "reference": "Sg 9, 13-18",
+      "texte": "Colle ici le texte complet de la première lecture."
+    },
+    {
+      "titre": "Psaume",
+      "reference": "Ps 89",
+      "texte": "Colle ici le texte du psaume."
+    },
+    {
+      "titre": "2ème lecture",
+      "reference": "Phm 9-10, 12-17",
+      "texte": "Colle ici le texte de la deuxième lecture."
+    },
+    {
+      "titre": "Évangile",
+      "reference": "Lc 14, 25-33",
+      "texte": "Colle ici le texte de l'évangile."
+    }
+  ]
+}
