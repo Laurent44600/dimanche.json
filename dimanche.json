@@ -1,38 +1,43 @@
 {
   "date": "Dimanche 6 septembre 2026",
-  "titre_dimanche": "23e dimanche du temps ordinaire",
+  "titre_dimanche": "23e dimanche du Temps Ordinaire — Année A",
   "chants": [
     {
-      "titre": "Chant d'entrée",
+      "titre": "Chant d'entrée — Rassemblés en ton nom",
       "reference": null,
-      "texte": "Colle ici les paroles complètes du chant d'entrée."
+      "texte": "1. Seigneur, nous voici rassemblés,\nDans ta maison, ton peuple en fête.\nOuvre nos cœurs à ta clarté,\nEt fais de nous une conquête.\n\n2. Toi qui nous appelles chaque jour,\nÀ marcher sur le chemin de vie,\nDonne-nous la force et l'amour,\nPour que ta joie nous soit ravie.\n\n3. Dieu tout-puissant, Père très bon,\nAccueille notre humble prière.\nQue notre chant, comme un rayon,\nMonte vers toi, lumière première."
     },
     {
-      "titre": "Chant de communion",
+      "titre": "Chant de communion — Pain de vie, pain partagé",
       "reference": null,
-      "texte": "Colle ici les paroles complètes du chant de communion."
+      "texte": "1. Tu te donnes, pain de la vie,\nCorps livré pour notre salut.\nEn toi, Seigneur, notre unité,\nSe forge et grandit peu à peu.\n\n2. Nourris-nous de ta présence,\nToi qui viens habiter en nous.\nQue grandisse notre espérance,\nEt notre amour paisible et doux.\n\n3. Uni à toi, uni aux frères,\nNous formons un seul et même corps.\nEnvoie-nous porter la lumière,\nDe ton amour toujours plus fort."
+    },
+    {
+      "titre": "Chant d'envoi — Allez, portez la Bonne Nouvelle",
+      "reference": null,
+      "texte": "1. Allez dans le monde aujourd'hui,\nPortez la joie de l'Évangile.\nQue votre vie soit un appui,\nPour ceux qui cherchent un asile.\n\n2. Le Christ marche à vos côtés,\nIl vous envoie semer l'amour.\nDans vos gestes de charité,\nQu'il soit présent chaque jour.\n\n3. Rendons grâce pour cette messe,\nEt pour le pain du ciel reçu.\nQue notre vie soit une promesse,\nD'un amour qui n'est jamais déçu."
     }
   ],
   "lectures": [
     {
       "titre": "1ère lecture",
-      "reference": "Sg 9, 13-18",
-      "texte": "Colle ici le texte complet de la première lecture."
+      "reference": "Ez 33, 7-9",
+      "texte": "Lecture du livre du prophète Ézékiel\n\nLa parole du Seigneur me fut adressée :\n« Fils d'homme, je fais de toi un guetteur pour la maison d'Israël.\nLorsque tu entendras une parole de ma bouche, tu les avertiras de ma part.\nSi je dis au méchant : 'Tu vas mourir', et que tu ne l'avertisses pas, si tu ne lui dis pas d'abandonner sa conduite mauvaise, lui, le méchant, mourra de son péché, mais à toi, je demanderai compte de son sang.\nAu contraire, si tu avertis le méchant d'abandonner sa conduite, et qu'il ne s'en détourne pas, lui mourra de son péché, mais toi, tu auras sauvé ta vie. »\n\n– Parole du Seigneur."
     },
     {
       "titre": "Psaume",
-      "reference": "Ps 89",
-      "texte": "Colle ici le texte du psaume."
+      "reference": "Ps 94 (95), 1-2, 6-7",
+      "texte": "R/ Aujourd'hui, ne fermez pas votre cœur, mais écoutez la voix du Seigneur ! (cf. Ps 94, 8a.7d)\n\nVenez, crions de joie pour le Seigneur, acclamons notre Rocher, notre salut !\nAllons jusqu'à lui en rendant grâce, par nos hymnes de fête acclamons-le !\n\nEntrez, inclinez-vous, prosternez-vous, adorons le Seigneur qui nous a faits.\nOui, il est notre Dieu ; nous sommes le peuple qu'il conduit.\n\nAujourd'hui écouterez-vous sa parole ?\n« Ne fermez pas votre cœur comme au désert, où vos pères m'ont tenté et provoqué, et pourtant ils avaient vu mon exploit. »"
     },
     {
       "titre": "2ème lecture",
-      "reference": "Phm 9-10, 12-17",
-      "texte": "Colle ici le texte de la deuxième lecture."
+      "reference": "Rm 13, 8-10",
+      "texte": "Lecture de la lettre de saint Paul Apôtre aux Romains\n\nFrères,\nn'ayez de dette envers personne, sauf celle de l'amour mutuel, car celui qui aime les autres a pleinement accompli la Loi.\n\nLa Loi dit : Tu ne commettras pas d'adultère, tu ne commettras pas de meurtre, tu ne commettras pas de vol, tu ne convoiteras pas.\nCes commandements et tous les autres se résument dans cette parole : Tu aimeras ton prochain comme toi-même.\n\nL'amour ne fait rien de mal au prochain. Donc, le plein accomplissement de la Loi, c'est l'amour.\n\n– Parole du Seigneur."
     },
     {
       "titre": "Évangile",
-      "reference": "Lc 14, 25-33",
-      "texte": "Colle ici le texte de l'évangile."
+      "reference": "Mt 18, 15-20",
+      "texte": "Évangile de Jésus Christ selon saint Matthieu\n\nEn ce temps-là, Jésus disait à ses disciples :\n« Si ton frère a commis un péché contre toi, va lui faire des reproches seul à seul. S'il t'écoute, tu as gagné ton frère.\n\nS'il ne t'écoute pas, prends en plus avec toi une ou deux personnes afin que toute l'affaire soit réglée sur la parole de deux ou trois témoins.\n\nS'il refuse de les écouter, dis-le à l'assemblée de l'Église ; s'il refuse encore d'écouter l'Église, considère-le comme un païen et un publicain.\n\nAmen, je vous le dis : tout ce que vous aurez lié sur la terre sera lié dans le ciel, et tout ce que vous aurez délié sur la terre sera délié dans le ciel.\n\nEt pareillement, amen, je vous le dis, si deux d'entre vous sur la terre se mettent d'accord pour demander quoi que ce soit, ils l'obtiendront de mon Père qui est aux cieux.\n\nEn effet, quand deux ou trois sont réunis en mon nom, je suis là, au milieu d'eux. »\n\n– Acclamons la Parole de Dieu."
     }
   ]
 }
