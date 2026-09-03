@@ -1,21 +1,61 @@
 {
   "date": "Dimanche 6 septembre 2026",
-  "titre_dimanche": "23e dimanche du Temps Ordinaire — Année A",
+  "titre_dimanche": "23ème dimanche du Temps Ordinaire — Église Saint-Nazaire",
   "chants": [
     {
-      "titre": "Chant d'entrée — Rassemblés en ton nom",
+      "titre": "Entrée — Nous voici",
       "reference": null,
-      "texte": "1. Seigneur, nous voici rassemblés,\nDans ta maison, ton peuple en fête.\nOuvre nos cœurs à ta clarté,\nEt fais de nous une conquête.\n\n2. Toi qui nous appelles chaque jour,\nÀ marcher sur le chemin de vie,\nDonne-nous la force et l'amour,\nPour que ta joie nous soit ravie.\n\n3. Dieu tout-puissant, Père très bon,\nAccueille notre humble prière.\nQue notre chant, comme un rayon,\nMonte vers toi, lumière première."
+      "texte": "1. Avec la force de l'amour avec le feu qui nous entoure\nNous voici avec la force du partage\navec la joie sur nos visages nous voici\n\nOn veut chanter plus fort unis dans ta confiance\nOn veut danser encore la force de l'espérance\nTon espérance\n\n2. Avec la force de la paix avec nos voix nos mains levées\nNous voici avec la force du pardon\navec le cœur en communion nous voici"
     },
     {
-      "titre": "Chant de communion — Pain de vie, pain partagé",
+      "titre": "Kyrie — Messe de Saint Jean",
       "reference": null,
-      "texte": "1. Tu te donnes, pain de la vie,\nCorps livré pour notre salut.\nEn toi, Seigneur, notre unité,\nSe forge et grandit peu à peu.\n\n2. Nourris-nous de ta présence,\nToi qui viens habiter en nous.\nQue grandisse notre espérance,\nEt notre amour paisible et doux.\n\n3. Uni à toi, uni aux frères,\nNous formons un seul et même corps.\nEnvoie-nous porter la lumière,\nDe ton amour toujours plus fort."
+      "texte": "Kyrie eleison, eleison, Kyrie eleison,\nKyrie eleison\n\nChriste eleison, eleison, Christe eleison,\nChriste eleison\n\nKyrie eleison, eleison, Kyrie eleison,\nKyrie eleison"
     },
     {
-      "titre": "Chant d'envoi — Allez, portez la Bonne Nouvelle",
+      "titre": "Gloria — Messe de Saint Jean",
       "reference": null,
-      "texte": "1. Allez dans le monde aujourd'hui,\nPortez la joie de l'Évangile.\nQue votre vie soit un appui,\nPour ceux qui cherchent un asile.\n\n2. Le Christ marche à vos côtés,\nIl vous envoie semer l'amour.\nDans vos gestes de charité,\nQu'il soit présent chaque jour.\n\n3. Rendons grâce pour cette messe,\nEt pour le pain du ciel reçu.\nQue notre vie soit une promesse,\nD'un amour qui n'est jamais déçu."
+      "texte": "Gloria, gloria, in excelsis Deo (bis)\n\nEt paix sur la terre aux hommes qu'il aime. Nous te louons, nous te bénissons,\nnous t'adorons, nous te glorifions, nous te rendons grâce,\nPour ton immense gloire, Seigneur Dieu, Roi du ciel,\nDieu le Père tout-puissant. Seigneur, Fils unique, Jésus Christ,\nSeigneur Dieu, Agneau de Dieu, le Fils du Père ;\nToi qui enlèves les péchés du monde, prends pitié de nous ;\nToi qui enlèves les péchés du monde, reçois notre prière ;\nToi qui es assis à la droite du Père, prends pitié de nous.\nCar toi seul es saint, toi seul es Seigneur, Toi seul es le Très-Haut : Jésus Christ,\navec le Saint-Esprit dans la gloire de Dieu le Père. Amen."
+    },
+    {
+      "titre": "Alléluia — Messe de Saint Jean",
+      "reference": null,
+      "texte": "Alléluia, Alléluia, Alléluia ! Alléluia, Alléluia, Alléluia !"
+    },
+    {
+      "titre": "Prière Universelle — Notre Père, nous te supplions humblement",
+      "reference": null,
+      "texte": "Notre Père, nous te supplions humblement"
+    },
+    {
+      "titre": "Offertoire — Source de tout amour",
+      "reference": null,
+      "texte": "Source de tout amour, de toute vie et de tout don,\nFais de nous, ô Père, une vivante offrande\nÀ la louange de ta gloire, de ta gloire.\n\n1. Voici nos cœurs : reçois-les, console-les,\nPour qu'ils se donnent sans compter. Et pour aimer en vérité,\nDonne-nous le cœur de ton Fils.\n\n2. Voici nos corps : reçois-les, affermis-les,\nPour qu'ils te servent dans la joie. Et pour aimer en vérité,\nDonne-nous le corps de ton Fils.\n\n3. Voici nos âmes : reçois-les, purifie-les,\nPour qu'elles te chantent à jamais. Et pour aimer en vérité,\nDonne-nous la vie de ton Fils."
+    },
+    {
+      "titre": "Sanctus — Messe de Saint Jean",
+      "reference": null,
+      "texte": "Sanctus, Sanctus, Sanctus dominus Deus Sabaoth,\nSanctus, Sanctus, Sanctus Deus Sabaoth,\n\nPleni sunt caeli et terra gloria tua. Hosanna, hosanna, hosanna in excelsis. (2x)\n\nBenedictus qui venit in nomine Domini hosanna, hosanna, hosanna in excelsis. (2x)"
+    },
+    {
+      "titre": "Anamnèse — Messe de Saint Jean",
+      "reference": null,
+      "texte": "Gloire à toi qui étais mort, gloire à toi qui es vivant.\nNotre Sauveur et notre Dieu, viens, Seigneur Jésus !"
+    },
+    {
+      "titre": "Agnus — Messe de Saint Jean",
+      "reference": null,
+      "texte": "Agnus Dei qui tollis peccata mundi miserere nobis\nAgnus Dei qui tollis peccata mundi dona nobis pacem"
+    },
+    {
+      "titre": "Communion — Je vous ai choisis",
+      "reference": null,
+      "texte": "1. Je vous ai choisis, je vous ai établis pour que vous alliez et viviez de ma vie.\nDemeurez en moi, vous porterez du fruit, je fais de vous mes frères et mes amis.\n\n2. Contemplez mes mains et mon cœur transpercés, accueillez la vie que l'Amour veut donner.\nAyez foi en moi, je suis ressuscité, et bientôt dans la gloire, vous me verrez.\n\n3. Recevez l'Esprit de puissance et de paix, soyez mes témoins, pour vous j'ai tout donné.\nPerdez votre vie, livrez-vous sans compter, vous serez mes disciples, mes bien-aimés !\n\n4. Consolez mon peuple, je suis son berger. Donnez-lui la joie dont je vous ai comblés.\nAyez pour vos frères la tendresse du Père, demeurez près de moi, alors vous vivrez !"
+    },
+    {
+      "titre": "Envoi — Louange à toi, ô Christ",
+      "reference": null,
+      "texte": "Louange à toi, ô Christ berger de ton Église,\nJoyeuse et vraie lumière, tu nous donnes la vie !\n\n1. Toi l'étoile dans la nuit, tu rayonnes avec le Père.\nPar toi nous avons la vie, nous voyons la vraie lumière !\n\n2. Que nos chants te glorifient, qu'ils embrasent notre terre !\nFils de Dieu, tu t'es fait chair pour nous mener vers le Père !\n\n3. Envoie sur nous ton Esprit, fais briller sur nous ta Face !\nÔ Jésus ressuscité, que nos chants te rendent grâce !\n\n4. Ta splendeur nous as sauvés des ténèbres éternelles.\nDonne-nous de proclamer tes prodiges, tes merveilles !\n\n5. Sois la source de la vie, sois la rosée de nos âmes !\nQue se lève pour chanter ton Église bienheureuse !"
     }
   ],
   "lectures": [
