@@ -1,21 +1,21 @@
 {
-  "date": "Dimanche 6 septembre 2026",
-  "titre_dimanche": "23ème dimanche du Temps Ordinaire — Église Saint-Nazaire",
+  "date": "Messe du dimanche 6 septembre 2026",
+  "titre_dimanche": "23ème dimanche du Temps Ordinaire - Église Saint-Nazaire",
   "chants": [
     {
-      "titre": "Entrée — Nous voici",
+      "titre": "Entrée",
       "reference": null,
-      "texte": "1. Avec la force de l'amour avec le feu qui nous entoure\nNous voici avec la force du partage\navec la joie sur nos visages nous voici\n\nOn veut chanter plus fort unis dans ta confiance\nOn veut danser encore la force de l'espérance\nTon espérance\n\n2. Avec la force de la paix avec nos voix nos mains levées\nNous voici avec la force du pardon\navec le cœur en communion nous voici"
+      "texte": "1. Avec la force de l’amour avec le feu qui nous entoure\nNous voici avec la force du partage\navec la joie sur nos visages nous voici\nON VEUT CHANTER PLUS FORT UNIS DANS TA CONFIANCE\nON VEUT DANSER ENCORE LA FORCE DE L’ESPÉRANCE\nTON ESPÉRANCE\n2. Avec la force de la paix avec nos voix nos mains levées\nNous voici avec la force du pardon\navec le cœur en communion nous voici"
     },
     {
       "titre": "Kyrie — Messe de Saint Jean",
       "reference": null,
-      "texte": "Kyrie eleison, eleison, Kyrie eleison,\nKyrie eleison\n\nChriste eleison, eleison, Christe eleison,\nChriste eleison\n\nKyrie eleison, eleison, Kyrie eleison,\nKyrie eleison"
+      "texte": "Kyrie eleison, eleison, Kyrie eleison,\nKyrie eleison\nChriste eleison, eleison, Christe eleison,\nChriste eleison\nKyrie eleison, eleison, Kyrie eleison,\nKyrie eleison"
     },
     {
       "titre": "Gloria — Messe de Saint Jean",
       "reference": null,
-      "texte": "Gloria, gloria, in excelsis Deo (bis)\n\nEt paix sur la terre aux hommes qu'il aime. Nous te louons, nous te bénissons,\nnous t'adorons, nous te glorifions, nous te rendons grâce,\nPour ton immense gloire, Seigneur Dieu, Roi du ciel,\nDieu le Père tout-puissant. Seigneur, Fils unique, Jésus Christ,\nSeigneur Dieu, Agneau de Dieu, le Fils du Père ;\nToi qui enlèves les péchés du monde, prends pitié de nous ;\nToi qui enlèves les péchés du monde, reçois notre prière ;\nToi qui es assis à la droite du Père, prends pitié de nous.\nCar toi seul es saint, toi seul es Seigneur, Toi seul es le Très-Haut : Jésus Christ,\navec le Saint-Esprit dans la gloire de Dieu le Père. Amen."
+      "texte": "Gloria, gloria, in excelsis Deo (bis)\nEt paix sur la terre aux hommes qu’il aime. Nous te louons, nous te bénissons,\nnous t’adorons, nous te glorifions, nous te rendons grâce,\nPour ton immense gloire, Seigneur Dieu, Roi du ciel,\nDieu le Père tout-puissant. Seigneur, Fils unique, Jésus Christ,\nSeigneur Dieu, Agneau de Dieu, le Fils du Père ;\nToi qui enlèves les péchés du monde, prends pitié de nous ;\nToi qui enlèves les péchés du monde, reçois notre prière ;\nToi qui es assis à la droite du Père, prends pitié de nous.\nCar toi seul es saint, toi seul es Seigneur, Toi seul es le Très-Haut : Jésus Christ,\navec le Saint-Esprit dans la gloire de Dieu le Père. Amen."
     },
     {
       "titre": "Alléluia — Messe de Saint Jean",
@@ -23,19 +23,19 @@
       "texte": "Alléluia, Alléluia, Alléluia ! Alléluia, Alléluia, Alléluia !"
     },
     {
-      "titre": "Prière Universelle — Notre Père, nous te supplions humblement",
+      "titre": "Prière Universelle",
       "reference": null,
       "texte": "Notre Père, nous te supplions humblement"
     },
     {
-      "titre": "Offertoire — Source de tout amour",
+      "titre": "Offertoire",
       "reference": null,
-      "texte": "Source de tout amour, de toute vie et de tout don,\nFais de nous, ô Père, une vivante offrande\nÀ la louange de ta gloire, de ta gloire.\n\n1. Voici nos cœurs : reçois-les, console-les,\nPour qu'ils se donnent sans compter. Et pour aimer en vérité,\nDonne-nous le cœur de ton Fils.\n\n2. Voici nos corps : reçois-les, affermis-les,\nPour qu'ils te servent dans la joie. Et pour aimer en vérité,\nDonne-nous le corps de ton Fils.\n\n3. Voici nos âmes : reçois-les, purifie-les,\nPour qu'elles te chantent à jamais. Et pour aimer en vérité,\nDonne-nous la vie de ton Fils."
+      "texte": "Source de tout amour, de toute vie et de tout don,\nFais de nous, ô Père, une vivante offrande\nÀ la louange de ta gloire, de ta gloire.\n1. Voici nos cœurs : reçois-les, console-les,\nPour qu’ils se donnent sans compter. Et pour aimer en vérité,\nDonne-nous le cœur de ton Fils.\n2. Voici nos corps : reçois-les, affermis-les,\nPour qu’ils te servent dans la joie. Et pour aimer en vérité,\nDonne-nous le corps de ton Fils.\n3. Voici nos âmes : reçois-les, purifie-les,\nPour qu’elles te chantent à jamais. Et pour aimer en vérité,\nDonne-nous la vie de ton Fils."
     },
     {
       "titre": "Sanctus — Messe de Saint Jean",
       "reference": null,
-      "texte": "Sanctus, Sanctus, Sanctus dominus Deus Sabaoth,\nSanctus, Sanctus, Sanctus Deus Sabaoth,\n\nPleni sunt caeli et terra gloria tua. Hosanna, hosanna, hosanna in excelsis. (2x)\n\nBenedictus qui venit in nomine Domini hosanna, hosanna, hosanna in excelsis. (2x)"
+      "texte": "Sanctus, Sanctus, Sanctus dominus Deus Sabaoth,\nSanctus, Sanctus, Sanctus Deus Sabaoth,\nPleni sunt caeli et terra gloria tua. Hosanna, hosanna,hosanna in excelsis. (2x)\nBenedictus qui venit in nomine Domini hosanna, hosanna, hosanna in excelsis. (2x)"
     },
     {
       "titre": "Anamnèse — Messe de Saint Jean",
@@ -48,36 +48,36 @@
       "texte": "Agnus Dei qui tollis peccata mundi miserere nobis\nAgnus Dei qui tollis peccata mundi dona nobis pacem"
     },
     {
-      "titre": "Communion — Je vous ai choisis",
+      "titre": "Communion",
       "reference": null,
-      "texte": "1. Je vous ai choisis, je vous ai établis pour que vous alliez et viviez de ma vie.\nDemeurez en moi, vous porterez du fruit, je fais de vous mes frères et mes amis.\n\n2. Contemplez mes mains et mon cœur transpercés, accueillez la vie que l'Amour veut donner.\nAyez foi en moi, je suis ressuscité, et bientôt dans la gloire, vous me verrez.\n\n3. Recevez l'Esprit de puissance et de paix, soyez mes témoins, pour vous j'ai tout donné.\nPerdez votre vie, livrez-vous sans compter, vous serez mes disciples, mes bien-aimés !\n\n4. Consolez mon peuple, je suis son berger. Donnez-lui la joie dont je vous ai comblés.\nAyez pour vos frères la tendresse du Père, demeurez près de moi, alors vous vivrez !"
+      "texte": "1. Je vous ai choisis, je vous ai établis pour que vous alliez et viviez de ma vie.\nDemeurez en moi, vous porterez du fruit , je fais de vous mes frères et mes amis.\n2. Contemplez mes mains et mon cœur transpercés, accueillez la vie que l´Amour veut donner.\nAyez foi en moi, je suis ressuscité, et bientôt dans la gloire, vous me verrez.\n3. Recevez l´Esprit de puissance et de paix , soyez mes témoins, pour vous j´ai tout donné.\nPerdez votre vie, livrez-vous sans compter , vous serez mes disciples, mes bien-aimés !\n4. Consolez mon peuple , je suis son berger. Donnez-lui la joie dont je vous ai comblés.\nAyez pour vos frères la tendresse du Père, demeurez près de moi, alors vous vivrez !"
     },
     {
-      "titre": "Envoi — Louange à toi, ô Christ",
+      "titre": "Envoi",
       "reference": null,
-      "texte": "Louange à toi, ô Christ berger de ton Église,\nJoyeuse et vraie lumière, tu nous donnes la vie !\n\n1. Toi l'étoile dans la nuit, tu rayonnes avec le Père.\nPar toi nous avons la vie, nous voyons la vraie lumière !\n\n2. Que nos chants te glorifient, qu'ils embrasent notre terre !\nFils de Dieu, tu t'es fait chair pour nous mener vers le Père !\n\n3. Envoie sur nous ton Esprit, fais briller sur nous ta Face !\nÔ Jésus ressuscité, que nos chants te rendent grâce !\n\n4. Ta splendeur nous as sauvés des ténèbres éternelles.\nDonne-nous de proclamer tes prodiges, tes merveilles !\n\n5. Sois la source de la vie, sois la rosée de nos âmes !\nQue se lève pour chanter ton Église bienheureuse !"
+      "texte": "Louange à toi, ô Christ berger de ton Église,\nJoyeuse et vraie lumière, tu nous donnes la vie !\n1. Toi l´étoile dans la nuit, tu rayonnes avec le Père.\nPar toi nous avons la vie, nous voyons la vraie lumière !\n2. Que nos chants te glorifient, qu´ils embrasent notre terre !\nFils de Dieu, tu t´es fait chair pour nous mener vers le Père !\n3. Envoie sur nous ton Esprit, fais briller sur nous ta Face !\nÔ Jésus ressuscité, que nos chants te rendent grâce !\n4. Ta splendeur nous as sauvés des ténèbres éternelles.\nDonne-nous de proclamer tes prodiges, tes merveilles !\n5. Sois la source de la vie, sois la rosée de nos âmes !\nQue se lève pour chanter ton Église bienheureuse !"
     }
   ],
   "lectures": [
     {
       "titre": "1ère lecture",
-      "reference": "Ez 33, 7-9",
-      "texte": "Lecture du livre du prophète Ézékiel\n\nLa parole du Seigneur me fut adressée :\n« Fils d'homme, je fais de toi un guetteur pour la maison d'Israël.\nLorsque tu entendras une parole de ma bouche, tu les avertiras de ma part.\nSi je dis au méchant : 'Tu vas mourir', et que tu ne l'avertisses pas, si tu ne lui dis pas d'abandonner sa conduite mauvaise, lui, le méchant, mourra de son péché, mais à toi, je demanderai compte de son sang.\nAu contraire, si tu avertis le méchant d'abandonner sa conduite, et qu'il ne s'en détourne pas, lui mourra de son péché, mais toi, tu auras sauvé ta vie. »\n\n– Parole du Seigneur."
+      "reference": "Ez 33, 7-9",
+      "texte": "[Texte à compléter — voir aelf.org pour les lectures officielles]"
     },
     {
       "titre": "Psaume",
-      "reference": "Ps 94 (95), 1-2, 6-7",
-      "texte": "R/ Aujourd'hui, ne fermez pas votre cœur, mais écoutez la voix du Seigneur ! (cf. Ps 94, 8a.7d)\n\nVenez, crions de joie pour le Seigneur, acclamons notre Rocher, notre salut !\nAllons jusqu'à lui en rendant grâce, par nos hymnes de fête acclamons-le !\n\nEntrez, inclinez-vous, prosternez-vous, adorons le Seigneur qui nous a faits.\nOui, il est notre Dieu ; nous sommes le peuple qu'il conduit.\n\nAujourd'hui écouterez-vous sa parole ?\n« Ne fermez pas votre cœur comme au désert, où vos pères m'ont tenté et provoqué, et pourtant ils avaient vu mon exploit. »"
+      "reference": "Ps 94 (95), 1-2, 6-7ab, 7d-8a.9",
+      "texte": "Aujourd’hui, ne fermez pas votre cœur, mais écoutez la voix du Seigneur !"
     },
     {
       "titre": "2ème lecture",
-      "reference": "Rm 13, 8-10",
-      "texte": "Lecture de la lettre de saint Paul Apôtre aux Romains\n\nFrères,\nn'ayez de dette envers personne, sauf celle de l'amour mutuel, car celui qui aime les autres a pleinement accompli la Loi.\n\nLa Loi dit : Tu ne commettras pas d'adultère, tu ne commettras pas de meurtre, tu ne commettras pas de vol, tu ne convoiteras pas.\nCes commandements et tous les autres se résument dans cette parole : Tu aimeras ton prochain comme toi-même.\n\nL'amour ne fait rien de mal au prochain. Donc, le plein accomplissement de la Loi, c'est l'amour.\n\n– Parole du Seigneur."
+      "reference": "Rm 13, 8-10",
+      "texte": "[Texte à compléter — voir aelf.org pour les lectures officielles]"
     },
     {
       "titre": "Évangile",
-      "reference": "Mt 18, 15-20",
-      "texte": "Évangile de Jésus Christ selon saint Matthieu\n\nEn ce temps-là, Jésus disait à ses disciples :\n« Si ton frère a commis un péché contre toi, va lui faire des reproches seul à seul. S'il t'écoute, tu as gagné ton frère.\n\nS'il ne t'écoute pas, prends en plus avec toi une ou deux personnes afin que toute l'affaire soit réglée sur la parole de deux ou trois témoins.\n\nS'il refuse de les écouter, dis-le à l'assemblée de l'Église ; s'il refuse encore d'écouter l'Église, considère-le comme un païen et un publicain.\n\nAmen, je vous le dis : tout ce que vous aurez lié sur la terre sera lié dans le ciel, et tout ce que vous aurez délié sur la terre sera délié dans le ciel.\n\nEt pareillement, amen, je vous le dis, si deux d'entre vous sur la terre se mettent d'accord pour demander quoi que ce soit, ils l'obtiendront de mon Père qui est aux cieux.\n\nEn effet, quand deux ou trois sont réunis en mon nom, je suis là, au milieu d'eux. »\n\n– Acclamons la Parole de Dieu."
+      "reference": "Mt 18, 15-20",
+      "texte": "[Texte à compléter — voir aelf.org pour les lectures officielles]"
     }
   ]
 }
