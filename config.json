@@ -1,0 +1,9 @@
+{
+  "we_type": "ordinaire",
+  "titre": "Dimanche ordinaire",
+  "celebrations": [
+    { "clocher": "ste-anne", "jour": "samedi", "horaire": "18h00" },
+    { "clocher": "st-gohard", "jour": "dimanche", "horaire": "9h30" },
+    { "clocher": "st-nazaire", "jour": "dimanche", "horaire": "11h00" }
+  ]
+}

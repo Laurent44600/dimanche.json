@@ -1,0 +1,18 @@
+{
+  "clocher": "Église Saint-Nazaire",
+  "horaire": "Dimanche 11h00",
+  "date": "Dimanche 6 septembre 2026",
+  "titre_dimanche": "23e dimanche du Temps Ordinaire",
+  "aelf_url": "https://www.aelf.org/2026-09-06/romain/messe",
+  "chants": [
+    { "titre": "Entrée — Nous voici", "texte": "1. Avec la force de l'amour avec le feu qui nous entoure\nNous voici avec la force du partage\navec la joie sur nos visages nous voici" },
+    { "titre": "Kyrie — Messe de Saint Jean", "texte": "Kyrie eleison, eleison, Kyrie eleison,\nKyrie eleison" },
+    { "titre": "Communion — Je vous ai choisis", "texte": "1. Je vous ai choisis, je vous ai établis pour que vous alliez et viviez de ma vie." }
+  ],
+  "lectures": [
+    { "titre": "1ère lecture", "reference": "Ez 33, 7-9" },
+    { "titre": "Psaume", "reference": "Ps 94 (95), 1-2, 6-7" },
+    { "titre": "2ème lecture", "reference": "Rm 13, 8-10" },
+    { "titre": "Évangile", "reference": "Mt 18, 15-20" }
+  ]
+}
